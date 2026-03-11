@@ -31,7 +31,7 @@ export default function Home() {
                         </div>
                         <div className="hero-ill">
                             <img
-                                src="/assets/MERN-logo.jpg"
+                                src="/assets/mernlogo.jpg"
                                 alt="Hospital Management System"
                                 style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px' }}
                             />
